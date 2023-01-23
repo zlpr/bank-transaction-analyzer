@@ -1,0 +1,5 @@
+io\zlpr\bank\BankStatementParser.class
+io\zlpr\bank\BankTransaction.class
+io\zlpr\bank\BankTransactionAnalyzerSimple.class
+io\zlpr\bank\BankStatementCSVParser.class
+io\zlpr\bank\BankStatementProcessor.class
